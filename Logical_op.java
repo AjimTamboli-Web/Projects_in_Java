@@ -11,8 +11,8 @@ public class Logical_op {
 		System.out.println("Enter the Age : ");
 		byte no = sc.nextByte();
 
-        if(no > 0 && no < 100) {
-        	if(no > 18 || no >10) {
+        if(no > 0 && no < 100) {                // && => need both condition is true
+        	if(no > 18 || no >10) {               //  || => need one condition is true
         		if(no < 18 && no > 10) {
         			System.out.println("Your a teen.");
         		}
