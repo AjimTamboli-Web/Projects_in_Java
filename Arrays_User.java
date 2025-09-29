@@ -16,7 +16,7 @@ public class Arrays_User {
 //		int column = 0;
 //	    column = arr2;
 		
-	    int count = 1;
+	   
 		int[][] arr = new int[row][];
 		
 		
@@ -36,7 +36,7 @@ public class Arrays_User {
 		
 		
 // this for loop is using counter to start your array from 1 no.	
-		
+//		 int count = 1;
 //		for(int i =0;i<arr.length;i++) {
 //			
 //			for(int j = 0;j<arr[i].length;j++) {
