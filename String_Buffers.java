@@ -37,6 +37,11 @@ class Change{
 			}
 		}
 	       System.out.println(sb);	
+	       
+	       
+	       String strr = null;
+	       String strr1 = "sd";
+	       System.out.println(strr.concat(strr1));
 	}
 	
 }
