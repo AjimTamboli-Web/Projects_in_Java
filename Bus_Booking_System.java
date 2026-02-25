@@ -8,8 +8,6 @@ import java.util.UUID;
 
 public class Bus_Booking_System {
 	
-	
-
 	static Scanner sc = new Scanner(System.in);
 
     public static void main(String[] args) {
